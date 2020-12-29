@@ -1,0 +1,48 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    display: 90%;
+}
+
+#mostra {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#conteudo {
+    width: 800px;
+    background: #e0ccff;
+    padding: 1em;
+    margin: 1em auto;
+    border-top: 10px solid #330033;
+    box-shadow: 0 2px 10px rgba(99, 38, 44, 1.0);
+}
+
+#alvo {
+    text-align: center;
+    padding: 7em 7em;
+    background: #ccffcc;
+}
+
+#alvo:hover {
+    text-align: center;
+    padding: 7em 7em;
+    background: #ccffcc;
+}
+
+#bacana {
+    text-align: center;
+}
+
+h1 {
+    background: #ccffcc;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+}
